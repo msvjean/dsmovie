@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+a:hover{
+  text-decoration: none;
+  color: unset;
+}
+
 :root {
   --color-primary: #4D41C0;
 }
@@ -11,9 +21,4 @@
 
 html, body {
     background-color: #E8E8E8;
-}
-
-a, a:hover {
-  text-decoration: none;
-  color: unset;
 }
