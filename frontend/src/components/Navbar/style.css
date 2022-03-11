@@ -34,3 +34,7 @@ a, a:hover {
     text-decoration: none;
     color: unset;
   }
+
+  html, body {
+    background-color: #E8E8E8;
+}
